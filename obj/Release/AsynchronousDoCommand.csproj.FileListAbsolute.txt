@@ -1,0 +1,8 @@
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\bin\Release\AsynchronousDoCommand.dll
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\bin\Release\AsynchronousDoCommand.pdb
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\bin\Release\TMPEngine.dll
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\bin\Release\TMPEngine.xml
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\obj\Release\AsynchronousDoCommand.csproj.CoreCompileInputs.cache
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\obj\Release\AsynchronousDoCommand.csproj.CopyComplete
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\obj\Release\AsynchronousDoCommand.dll
+D:\公司Sample_Git\Map Server Plugin\AsynchronousDoCommand\obj\Release\AsynchronousDoCommand.pdb
